@@ -2,4 +2,4 @@
 - 🌱 I’m Full Stack Developer & Competitive Programmer.
 - 👯 I mainly code in cpp.
 - 📫 How to reach me: sarthu858@gmail.com
-- 🙋‍♂️ My Personal Portfolio link: https://coderss07.github.io/
+- 🙋‍♂️ My Portfolio link: https://coderss07.github.io/
