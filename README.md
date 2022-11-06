@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🌱 I’m web developer & Competitive programmer.
-- 👯 I mainly code in cpp, python.
+- 🌱 I’m Full Stack Developer & Competitive Programmer.
+- 👯 I mainly code in cpp.
 - 📫 How to reach me: sarthu858@gmail.com
 - 🙋‍♂️ My Personal Portfolio link: https://coderss07.github.io/
